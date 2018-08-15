@@ -1,14 +1,11 @@
-# 个人博客
-<a href='https://travis-ci.org/stkevintan/hexo' target='_blank'>
-  <img src='https://travis-ci.org/stkevintan/hexo.svg?branch=master' alt='travis'/>
-</a>
-My hexo blog source files.
-Blog Url : <http://nalutor.cn>
+<p align="center"># 个人博客</p>
 
-
-> Write the code. Change the world.
-
-[欢迎一起探讨各自在后端开发中遇到的工程问题]
+<p align="center">
+  <h4>
+  My hexo blog source files. Write the code. Change the world.
+  Blog Url : <http://nalutor.cn>
+  </h4>
+</p>
 
 <!-- 目录
 
