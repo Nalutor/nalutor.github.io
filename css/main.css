@@ -1608,13 +1608,13 @@ pre .javascript .function {
   font-size: 12px;
 }
 .post-nav-next a {
-  padding-left: 15px;
+  padding-left: 12px;
 }
 .post-nav-prev {
   text-align: right;
 }
 .post-nav-prev a {
-  padding-right: 15px;
+  padding-right: 12px;
 }
 .post-nav-prev .fa {
   right: 0;
@@ -1828,7 +1828,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #052aff;
+  background: #cd0dff;
 }
 .links-of-blogroll {
   font-size: 13px;
