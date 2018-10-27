@@ -23,16 +23,16 @@
     <published>2018-08-31T05:30:27.514Z</published>
     <updated>2018-08-31T05:30:27.514Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-nCIyhZre" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-nCIyhZre"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "郭源潮",              author: "宋冬",              url: "http://testoa1.maccura.com:7053/office/tvShow/files/data/2018/7/gyc.mp3",              pic: "http://p1.music.126.net/GkeTNB4NaPDTHASyDyJ3FA==/18878614649031775.jpg?param=90y90",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><blockquote class="blockquote-center"><br>你说你知道他们的世界<br>悲歌三首买一切<br>买昆仑落脚 蓬莱放思想<br>买人们的争执酿酒汤<br>买公主坟的乌鸦<br>事发之木和东窗之麻<br>买胭脂河里船行渔歌<br>黄金世界中万物法则<br>你我都一样 将被遗忘 郭源潮<br>你的病也和我的一样 风月难扯 离合不骚<br>层楼终究误少年 自由早晚乱余生<br>你我山前没相见 山后别相逢<br><a id="more"></a><br>买石灰街车站的海鸥<br>山水禽兽和年少一梦<br>买太平湖底陈年水墨<br>哥本哈根的童年传说<br>其实你我都一样 终将被遗忘 郭源潮<br>你的病也和我的一样 风月难扯 离合不骚<br>层楼终究误少年 自由早晚乱余生<br>你我山前没相见 山后别相逢<br></blockquote><br>一个初入世的毛头小子，总想着鲜衣怒马，或是烈焰繁花，仗剑天涯。扬言要的是美人入怀，要的是沙场点兵，要的是赢得生前身后名。</p><p>一位饱经沧桑的老朽，寒暄的是东篱采菊，荆钗布裙，松花酿酒，春水煎茶。</p><p>话不投机，一面之缘，天下之大，酒过三巡，别相见了。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-HvoATKEk" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-HvoATKEk"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "郭源潮",              author: "宋冬",              url: "http://testoa1.maccura.com:7053/office/tvShow/files/data/2018/7/gyc.mp3",              pic: "http://p1.music.126.net/GkeTNB4NaPDTHASyDyJ3FA==/18878614649031775.jpg?param=90y90",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p><blockquote class="blockquote-center"><br>你说你知道他们的世界<br>悲歌三首买一切<br>买昆仑落脚 蓬莱放思想<br>买人们的争执酿酒汤<br>买公主坟的乌鸦<br>事发之木和东窗之麻<br>买胭脂河里船行渔歌<br>黄金世界中万物法则<br>你我都一样 将被遗忘 郭源潮<br>你的病也和我的一样 风月难扯 离合不骚<br>层楼终究误少年 自由早晚乱余生<br>你我山前没相见 山后别相逢<br><a id="more"></a><br>买石灰街车站的海鸥<br>山水禽兽和年少一梦<br>买太平湖底陈年水墨<br>哥本哈根的童年传说<br>其实你我都一样 终将被遗忘 郭源潮<br>你的病也和我的一样 风月难扯 离合不骚<br>层楼终究误少年 自由早晚乱余生<br>你我山前没相见 山后别相逢<br></blockquote><br>一个初入世的毛头小子，总想着鲜衣怒马，或是烈焰繁花，仗剑天涯。扬言要的是美人入怀，要的是沙场点兵，要的是赢得生前身后名。</p><p>一位饱经沧桑的老朽，寒暄的是东篱采菊，荆钗布裙，松花酿酒，春水煎茶。</p><p>话不投机，一面之缘，天下之大，酒过三巡，别相见了。</p>]]></content>
     
     <summary type="html">
     
-      &lt;div id=&quot;aplayer-nCIyhZre&quot; class=&quot;aplayer aplayer-tag-marker&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
+      &lt;div id=&quot;aplayer-HvoATKEk&quot; class=&quot;aplayer aplayer-tag-marker&quot; style=&quot;margin-bottom: 20px;&quot;&gt;
             &lt;pre class=&quot;aplayer-lrc-content&quot;&gt;&lt;/pre&gt;
         &lt;/div&gt;
         &lt;script&gt;
           var ap = new APlayer({
-            element: document.getElementById(&quot;aplayer-nCIyhZre&quot;),
+            element: document.getElementById(&quot;aplayer-HvoATKEk&quot;),
             narrow: false,
             autoplay: true,
             showlrc: false,
